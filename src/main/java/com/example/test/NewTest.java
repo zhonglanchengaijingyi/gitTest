@@ -7,4 +7,6 @@ public class NewTest {
     private String teacher;
 
     private int age;
+
+    private String a;
 }
